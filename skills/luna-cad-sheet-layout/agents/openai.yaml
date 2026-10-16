@@ -1,0 +1,4 @@
+interface:
+  display_name: "Luna CAD 智能体套图排版技能"
+  short_description: "供AI Agent使用的AutoCAD套图排版技能，支持双模式、图框外参与目录维护"
+  default_prompt: "使用 $luna-cad-sheet-layout，按低算力分步或高算力简明模式，整理已完成设计的AutoCAD图纸，配置图框和布局并统一图签与目录。"

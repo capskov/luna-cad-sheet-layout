@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+output/
+dist/
+*.dwg
+*.dxf
+*.bak
+*.dwl*
+*.pdf
+*.zip
+*.ttf
+*.shx
+.DS_Store
